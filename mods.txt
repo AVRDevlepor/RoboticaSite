@@ -1,1 +1,1 @@
-gigglefart
+{"Mods":[{"Version":"1.0.0","Link":"https://github.com/AVRDevlepor/RoboticaSite/raw/refs/heads/main/Soupuchin.dll","Mod":"CrystalynMM","Dev":"HereAreWe","Tag":"Menus","IsPlugin":false,"modFileName":"Soupuchin.dll"}]}
